@@ -1,1 +1,3 @@
-working dir
+local,
+added to stage area,
+working dir,
